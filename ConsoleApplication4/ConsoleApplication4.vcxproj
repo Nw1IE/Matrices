@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleApplication4.cpp" />
+    <ClCompile Include="Matrix.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Matrix.hpp" />
